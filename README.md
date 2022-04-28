@@ -21,3 +21,6 @@ https://prasanthpulavarthi.github.io/eventmaterializecss/
 DRUMKIT :- HTML,CSS,JAVASCRIPT
 https://prasanthpulavarthi.github.io/keyevents1/
 
+CALCULATOR :- HTML,CSS,JAVASCRIPT
+https://prasanthpulavarthi.github.io/calculatorassignment/
+
