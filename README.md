@@ -15,7 +15,7 @@ https://prasanthpulavarthi.github.io/numberpuzzle/
 EVENT PAGE :- HTML,CSS,BOOTSTRAP
 https://prasanthpulavarthi.github.io/bootstrapevent/
 
-EVENT PAGE :- HTML,MATERIALIZE CSS
+EVENT PAGE :- HTML,MATERIALIZE CSS,JQUERY
 https://prasanthpulavarthi.github.io/eventmaterializecss/
 
 DRUMKIT :- HTML,CSS,JAVASCRIPT
