@@ -1,15 +1,20 @@
 # skill_project-link
 
-click here to open the vidarbha irrigation project(HTMl and CSS)  https://prasanthpulavarthi.github.io/vidarbha-irrigation/
+VIDARBHA IRRIGATION :- HTML,CSS,JAVASCRIPT
+https://prasanthpulavarthi.github.io/vidarbha-irrigation/
 
 
-click here to open the hiking project(HTML and CSS)https://prasanthpulavarthi.github.io/hiking/
+hiking :- HTML,CSS,JAVASCRIPT
+https://prasanthpulavarthi.github.io/hiking/
 
 
-click here to open the numberpuzzle(Javascript)https://prasanthpulavarthi.github.io/numberpuzzle/
+NUMBER PUZZLE :-HTML,CSS, JAVASCRIPT
+https://prasanthpulavarthi.github.io/numberpuzzle/
 
 
-click here to open the eventwebsite(HTML,CSS,Bootstrap)https://prasanthpulavarthi.github.io/bootstrapevent/
+EVENT PAGE :- HTML,CSS,BOOTSTRAP
+https://prasanthpulavarthi.github.io/bootstrapevent/
 
-click here to open the event website(Html,materialize Css)https://prasanthpulavarthi.github.io/eventmaterializecss/
+EVENT PAGE :- HTML,MATERIALIZE CSS
+https://prasanthpulavarthi.github.io/eventmaterializecss/
 
