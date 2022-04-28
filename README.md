@@ -5,3 +5,6 @@ click here to open the vidarbha irrigation project(HTMl and CSS)  https://prasan
 
 click here to open the hiking project(HTML and CSS)https://prasanthpulavarthi.github.io/hiking/
 
+
+click here to open the numberpuzzle(Javascript)https://prasanthpulavarthi.github.io/numberpuzzle/
+
