@@ -27,3 +27,8 @@ https://prasanthpulavarthi.github.io/calculatorassignment/
 TODOLIST :- HTML,BOOTSTRAP,JAVASCRIPT
 https://prasanthpulavarthi.github.io/todolist/
 
+
+CLOCK :- HTML,CSS,JAVASCRIPT
+https://prasanth-clock.netlify.app/
+
+
