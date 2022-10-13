@@ -24,16 +24,19 @@ https://prasanthpulavarthi.github.io/keyevents1/
 CALCULATOR :- HTML,CSS,JAVASCRIPT
 https://prasanthpulavarthi.github.io/calculatorassignment/
 
-TODOLIST :- HTML,BOOTSTRAP,JAVASCRIPT
+TODO LIST :- HTML,BOOTSTRAP,JAVASCRIPT
 https://prasanthpulavarthi.github.io/todolist/
 
 
 CLOCK :- HTML,CSS,JAVASCRIPT
 https://prasanth-clock.netlify.app/
 
-FOODORDER:- React JS
+FOOD ORDER:- React JS
 https://foodordersai.netlify.app/
 
-IMAGEPOPUP:- HTML,CSS,JAVASCRIPT
+IMAGE POPUP:- HTML,CSS,JAVASCRIPT
 https://prasanthpulavarthi.github.io/imagePopUpJs1/
+
+TEA CUP VAPOUR;-HTML,CSS
+https://prasanthpulavarthi.github.io/teacupvapour/
 
