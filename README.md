@@ -34,3 +34,6 @@ https://prasanth-clock.netlify.app/
 FOODORDER:- React JS
 https://foodordersai.netlify.app/
 
+IMAGEPOPUP:- HTML,CSS,JAVASCRIPT
+https://prasanthpulavarthi.github.io/imagePopUpJs1/
+
